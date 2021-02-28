@@ -31,6 +31,7 @@
 .pub/
 /build/
 **/lib/utils/location_util.dart
+**/ios/runner/AppDelegate.swift
 
 # Web related
 lib/generated_plugin_registrant.dart
